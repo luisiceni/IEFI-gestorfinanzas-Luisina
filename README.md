@@ -1,4 +1,4 @@
-# gestor_finanzas_GD
+# IEFI - Gestor Finanzas
 
 Gestor de finanzas "FinanzasGD" - IEFI - Programacion I y Programacion Web
 
